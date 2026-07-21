@@ -1,0 +1,19 @@
+1. ESP32-S3-WROOM-1-N16R8          (Brain)
+2. PCM5102APWR (TI)                (DAC)
+3. TPA6120A2DWPR (TI)              (Amplifier)
+4. AP2112K-3.3TRG1                 (Digital LDO)
+5. TPS7A2033PDBVR (TI)             (Analog LDO)
+6. LT3471EDD#TRPBF (TI)            (Split Regulator)
+7. MicroSD Slot                    (Push-Push type)
+8. Audio Jack                      (Female)
+9. 16-pin USB-C Female Connector   (Power and Flashing)
+10. TP4056                         (Charger IC)
+11. DW01A                          (Protection IC)
+12. FS8205A                        (Dual MOSFETS)
+13. BSS138                         (N-Channel MOSFET)
+14. NHD-2.8-240320AF-CSXP-F        (Display)
+15. TM035035-2024-003              (Trackpad)
+
+
+955465-3.7v 5000mAh Rechargeable Battery for Power Bank DVD, Tablet, MP3 Player, GPS, Instruments and DIY 5000 mah 
+https://www.amazon.in/955465-3-7v-Rechargeable-Power-Bank-5000/dp/B0H2MS8Z9L?crid=2GTUSF15T9ZI5&dib=eyJ2IjoiMSJ9.8u6q5dAxWpwi97Zbq9dFIErC0ClIJzM8ppW_LHQgZrmV1FCCN2nQvBYL81SbietX9KeGfVgubgyiLibtHtySICuYyi5-XZDw47bvJ5sXXXqnsxukm7Q62R0BMpJNUFAVVsjghEFrJZbBY_wxTFvPStVYNXwSHQDZ4Sqm06E8njMypAKJBVx3oo3d1rvYNjyQu2JL4CLENjkwkoHuNB6P0lgbSJD4SFgPGh1cTQu2S6ko8U0gE-4cVCKAUgA4JbpqgbCPI36BV8ax3pI1X4v1ZkIpEryn-MtoRpr2ujg9TGI.2z2-aa15060oY-uJmpTxpVO7P4v6jAuWKR3TkR5Z97Q&dib_tag=se&keywords=955465-3.7v+5000mAh+Rechargeable+Battery&qid=1782489997&s=electronics&sprefix=955465-3.7v+5000mah+rechargeable+battery%2Celectronics%2C247&sr=1-1
